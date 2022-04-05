@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M0,0 L6,0 L6,5 C6,6.65685425 4.65685425,8 3,8 L3,8 C1.34314575,8 2.02906125e-16,6.65685425 0,5 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flags" transform="translate(-176.000000, -400.000000)">
+            <g id="flag-1304" transform="translate(176.000000, 400.000000)">
+                <rect id="flag-1323" fill="#FFC400" x="0" y="0" width="32" height="24"></rect>
+                <g id="Group-13" transform="translate(12.000000, 9.000000)">
+                    <rect id="Rectangle-29" fill="#E6E4E4" x="0" y="0" width="1" height="8"></rect>
+                    <rect id="Rectangle-29" fill="#C1AB00" x="0" y="0" width="1" height="1"></rect>
+                    <rect id="Rectangle-29" fill="#C1AB00" x="0" y="7" width="1" height="1"></rect>
+                </g>
+                <g id="Group-12" transform="translate(3.000000, 9.000000)">
+                    <rect id="Rectangle-29" fill="#E6E4E4" x="0" y="0" width="1" height="8"></rect>
+                    <rect id="Rectangle-29" fill="#C1AB00" x="0" y="0" width="1" height="1"></rect>
+                    <rect id="Rectangle-29" fill="#C1AB00" x="0" y="7" width="1" height="1"></rect>
+                </g>
+                <g id="Rectangle-30" transform="translate(5.000000, 9.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#E6E4E4" xlink:href="#path-1"></use>
+                    <rect fill="#C1AB00" mask="url(#mask-2)" x="0" y="4" width="3" height="4"></rect>
+                    <rect fill="#C60B1E" mask="url(#mask-2)" x="3" y="4" width="3" height="4"></rect>
+                    <rect fill="#C60B1E" mask="url(#mask-2)" x="0" y="0" width="3" height="4"></rect>
+                </g>
+                <polygon id="Rectangle-15" fill="#FFE000" points="6 7 7 8 8 7 9 8 10 7 10 9 6 9"></polygon>
+                <rect id="Rectangle-3" fill="#C60B1E" x="0" y="0" width="32" height="6"></rect>
+                <rect id="Rectangle-3" fill="#C60B1E" x="0" y="18" width="32" height="6"></rect>
+                <rect id="Rectangle" stroke-opacity="0.05" stroke="#000000" fill-opacity="0" fill="#FFFFFF" x="0.5" y="0.5" width="31" height="23"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
